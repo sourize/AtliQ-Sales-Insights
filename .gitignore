@@ -1,0 +1,23 @@
+# Tableau Temp Files
+*.tbm
+*.twbr
+
+# MySQL Connection Files (if any)
+*.my.cnf
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Python (if using for ETL/analysis)
+__pycache__/
+*.py[cod]
+*.venv
+venv/
+
+# Logs
+*.log
