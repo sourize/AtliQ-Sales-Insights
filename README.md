@@ -5,7 +5,7 @@
 
 > **A Business Intelligence solution providing real-time sales insights for AtliQ Hardware across multiple Indian markets.**
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](assets/dashboard_screenshot.png)
 
 ---
 
